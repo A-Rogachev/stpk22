@@ -8,9 +8,9 @@ ___
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=djangologoColor=white)
 
 
-<font size=3> ► [Python 3.7.9](https://www.python.org/downloads/release/python-379/)
-► [Django 2.2.19](https://docs.djangoproject.com/en/4.1/releases/2.2.19/)
-</font>
+<font size=3> ► [Python 3.7.9](https://www.python.org/downloads/release/python-379/)</font>
+<font size=3>► [Django 2.2.19](https://docs.djangoproject.com/en/4.1/releases/2.2.19/)</font>
+
 
 #### Установка
 1. Установить и активировать виртуальное окружение
